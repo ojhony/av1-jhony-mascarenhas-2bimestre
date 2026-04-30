@@ -1,0 +1,58 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #222;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  background-color: #444;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 20px;
+}
+
+#sobre {
+  background-color: aqua;
+  border: 3px dotted #f30101;
+  text-align: center;
+}
+
+.bg-color {
+  background-color: darkgreen;
+}
+
+section {
+  margin-bottom: 30px;
+  padding: 20px;
+  border: 5px solid #ccc;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+
+footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
